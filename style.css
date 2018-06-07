@@ -6,6 +6,7 @@ ul,
 ol {
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
 body {
@@ -33,10 +34,6 @@ img {
   max-width: 100%;
 }
 
-nav ul {
-  list-style: none;
-}
-
 nav ul.flex-container {
   justify-content: space-around;
 }
@@ -50,6 +47,19 @@ nav ul a:hover {
   color: grey;
 }
 
-#about {
+section {
   margin-top: 5vh;
+}
+
+h3.text-center {
+  text-align: center;
+}
+
+#interests ul img {
+  max-height: 100px;
+}
+
+#interests ul.flex-container {
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
