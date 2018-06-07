@@ -34,6 +34,11 @@ img {
   max-width: 100%;
 }
 
+nav {
+  border-bottom: 1px solid white;
+  padding: 1rem;
+}
+
 nav ul.flex-container {
   justify-content: space-around;
 }
@@ -62,4 +67,9 @@ h3.text-center {
 #interests ul.flex-container {
   justify-content: space-around;
   flex-wrap: wrap;
+}
+
+#experience ol {
+  list-style: decimal;
+  margin-left: 3vh;
 }
