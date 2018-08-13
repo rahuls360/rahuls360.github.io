@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 :root {
   font-size: 18px;
 }
@@ -12,6 +13,7 @@ ol {
 body {
   background: #282a36;
   color: #eee;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .flex-container {
@@ -56,7 +58,7 @@ section {
   margin-top: 5vh;
 }
 
-h3.text-center {
+.text-center {
   text-align: center;
 }
 
@@ -72,4 +74,48 @@ h3.text-center {
 #experience ol {
   list-style: decimal;
   margin-left: 3vh;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(17, 126, 216);
+  ;
+}
+
+a:hover {
+  color: rgb(12, 93, 160);
+}
+
+.container {
+  max-width: 90%;
+  margin: auto;
+}
+
+.about-me-image {
+  margin: auto;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+i.fa {
+  padding-right: 5px;
+}
+
+section#contact .flex-container {
+  justify-content: space-evenly;
+}
+
+@media screen and (max-width: 768px) {
+  section.flex-container#about {
+    flex-direction: column-reverse;
+  }
+  .about-me-text {
+    width: auto;
+    padding: 0 0.5rem;
+  }
+  div.about-me-image {
+    width: auto;
+  }
 }
