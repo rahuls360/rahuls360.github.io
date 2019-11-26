@@ -2,6 +2,7 @@ import React from 'react';
 import { createGlobalStyle } from 'styled-components'
 import Header from '../Header';
 import About from '../About';
+import Projects from '../Projects';
 
 import './App.css';
 
@@ -18,6 +19,7 @@ const App = () => {
       <GlobalStyle />
       <Header />
       <About />
+      <Projects />
     </div>
   );
 }

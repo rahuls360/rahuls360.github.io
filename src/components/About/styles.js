@@ -7,11 +7,14 @@ export const AboutContainer = styled.div`
     flex-direction: column;
   }
   img {
-    height: auto;
     overflow: hidden;
-    width: 100%;
-    max-width: 600px;
-    margin: auto;
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    margin-top: 0.83em;
+    @media (max-width: 700px) {
+      margin: auto;
+    }
   }
   & > div {
     margin-left: 60px;
