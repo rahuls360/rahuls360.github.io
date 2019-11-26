@@ -1,8 +1,9 @@
 import React from 'react';
 import { createGlobalStyle } from 'styled-components'
-import Header from './components/Header';
+import Header from '../Header';
+import About from '../About';
 
-import './index.css';
+import './App.css';
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -16,7 +17,7 @@ const App = () => {
     <div>
       <GlobalStyle />
       <Header />
-      <h1>hi</h1>
+      <About />
     </div>
   );
 }
