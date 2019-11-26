@@ -2,6 +2,8 @@ import infiniteScrollImage from '../../assets/infinite-scroll.gif';
 import calculatorImage from '../../assets/calculator.png';
 import binaryCalculatorImage from '../../assets/binary-calculator.png';
 import analogClockImage from '../../assets/analog-clock.png';
+import dynamicChartsImage from '../../assets/dynamic-charts-recharts.gif';
+import debounceSearchImage from '../../assets/debounce-search.gif';
 import pomodoroTimerImage from '../../assets/pomodoro-timer.png';
 import localWeatherImage from '../../assets/local-weather.png';
 import randomQuoteMachineImage from '../../assets/random-quote-machine.png';
@@ -29,6 +31,18 @@ const data = [
   {
     image: analogClockImage,
     title: 'Analog Clock',
+    tags: ['Vanilla Javascript'],
+    url: "https://codepen.io/rahuls360/pen/eYYaLRm"
+  },
+  {
+    image: dynamicChartsImage,
+    title: 'Dynamic Charts using Recharts',
+    tags: ['Vanilla Javascript'],
+    url: "https://codepen.io/rahuls360/pen/eYYaLRm"
+  },
+  {
+    image: debounceSearchImage,
+    title: 'Debounce Search query while typing',
     tags: ['Vanilla Javascript'],
     url: "https://codepen.io/rahuls360/pen/eYYaLRm"
   },
