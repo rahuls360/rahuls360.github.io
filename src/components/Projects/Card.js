@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Card = ({ img, tags, title}) => {
+const Card = ({ img, tags, title, url}) => {
   return (
     <CardContainer>
-      <img src={img} alt="portfolio"/>
+      <a href={url} target="_blank" rel="noopener noreferrer"><img src={img} alt="portfolio" /></a>
       <h4 >{title}</h4>
       <span>{tags.join(' | ')}</span>
     </CardContainer>
