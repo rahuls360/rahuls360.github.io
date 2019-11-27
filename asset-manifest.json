@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8e37207.chunk.css",
+    "main.js": "/static/js/main.12ebce85.chunk.js",
+    "main.js.map": "/static/js/main.12ebce85.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8896086d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8896086d.js.map",
+    "static/js/2.01d76c42.chunk.js": "/static/js/2.01d76c42.chunk.js",
+    "static/js/2.01d76c42.chunk.js.map": "/static/js/2.01d76c42.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0e6d866272d9be162a833276f919b3da.js": "/precache-manifest.0e6d866272d9be162a833276f919b3da.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f8e37207.chunk.css.map": "/static/css/main.f8e37207.chunk.css.map",
+    "static/media/analog-clock.png": "/static/media/analog-clock.8bdc82b4.png",
+    "static/media/binary-calculator.png": "/static/media/binary-calculator.27664da2.png",
+    "static/media/calculator.png": "/static/media/calculator.373c2f90.png",
+    "static/media/debounce-search.gif": "/static/media/debounce-search.66d6d5f7.gif",
+    "static/media/dynamic-charts-recharts.gif": "/static/media/dynamic-charts-recharts.f73dd363.gif",
+    "static/media/infinite-scroll.gif": "/static/media/infinite-scroll.92e8023a.gif",
+    "static/media/local-weather.png": "/static/media/local-weather.edfe07fc.png",
+    "static/media/pomodoro-timer.png": "/static/media/pomodoro-timer.59a1267f.png",
+    "static/media/rahul.jpg": "/static/media/rahul.4e0155de.jpg",
+    "static/media/random-quote-machine.png": "/static/media/random-quote-machine.2ba2d32a.png",
+    "static/media/wikipedia-viewer.png": "/static/media/wikipedia-viewer.81542c8e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8896086d.js",
+    "static/js/2.01d76c42.chunk.js",
+    "static/css/main.f8e37207.chunk.css",
+    "static/js/main.12ebce85.chunk.js"
+  ]
+}
