@@ -1,32 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8e37207.chunk.css",
-    "main.js": "/static/js/main.6f4af3c2.chunk.js",
-    "main.js.map": "/static/js/main.6f4af3c2.chunk.js.map",
+    "main.css": "/static/css/main.6e8eeb99.chunk.css",
+    "main.js": "/static/js/main.ae0dc332.chunk.js",
+    "main.js.map": "/static/js/main.ae0dc332.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8896086d.js",
     "runtime-main.js.map": "/static/js/runtime-main.8896086d.js.map",
-    "static/js/2.3b2b20cf.chunk.js": "/static/js/2.3b2b20cf.chunk.js",
-    "static/js/2.3b2b20cf.chunk.js.map": "/static/js/2.3b2b20cf.chunk.js.map",
+    "static/js/2.b76e2169.chunk.js": "/static/js/2.b76e2169.chunk.js",
+    "static/js/2.b76e2169.chunk.js.map": "/static/js/2.b76e2169.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a681254cb61975df6e8ede3c543e1ba1.js": "/precache-manifest.a681254cb61975df6e8ede3c543e1ba1.js",
+    "precache-manifest.d5f9d406a3ee27ea1e5ed69dce59185b.js": "/precache-manifest.d5f9d406a3ee27ea1e5ed69dce59185b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f8e37207.chunk.css.map": "/static/css/main.f8e37207.chunk.css.map",
+    "static/css/main.6e8eeb99.chunk.css.map": "/static/css/main.6e8eeb99.chunk.css.map",
     "static/media/analog-clock.png": "/static/media/analog-clock.8bdc82b4.png",
     "static/media/binary-calculator.png": "/static/media/binary-calculator.27664da2.png",
     "static/media/calculator.png": "/static/media/calculator.373c2f90.png",
+    "static/media/chatbot-dashboard-redux.gif": "/static/media/chatbot-dashboard-redux.fa900dd0.gif",
+    "static/media/cubic-lattice.png": "/static/media/cubic-lattice.8870c468.png",
     "static/media/debounce-search.gif": "/static/media/debounce-search.66d6d5f7.gif",
     "static/media/dynamic-charts-recharts.gif": "/static/media/dynamic-charts-recharts.f73dd363.gif",
     "static/media/infinite-scroll.gif": "/static/media/infinite-scroll.92e8023a.gif",
+    "static/media/inshorts-clone.png": "/static/media/inshorts-clone.3e0273da.png",
     "static/media/local-weather.png": "/static/media/local-weather.edfe07fc.png",
     "static/media/pomodoro-timer.png": "/static/media/pomodoro-timer.59a1267f.png",
     "static/media/rahul.jpg": "/static/media/rahul.4e0155de.jpg",
     "static/media/random-quote-machine.png": "/static/media/random-quote-machine.2ba2d32a.png",
-    "static/media/wikipedia-viewer.png": "/static/media/wikipedia-viewer.81542c8e.png"
+    "static/media/wikipedia-viewer.png": "/static/media/wikipedia-viewer.81542c8e.png",
+    "static/media/world-map-sms-pricing.png": "/static/media/world-map-sms-pricing.41f18da5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8896086d.js",
-    "static/js/2.3b2b20cf.chunk.js",
-    "static/css/main.f8e37207.chunk.css",
-    "static/js/main.6f4af3c2.chunk.js"
+    "static/js/2.b76e2169.chunk.js",
+    "static/css/main.6e8eeb99.chunk.css",
+    "static/js/main.ae0dc332.chunk.js"
   ]
 }
