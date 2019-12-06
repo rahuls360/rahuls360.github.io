@@ -8,8 +8,37 @@ import pomodoroTimerImage from '../../assets/pomodoro-timer.png';
 import localWeatherImage from '../../assets/local-weather.png';
 import randomQuoteMachineImage from '../../assets/random-quote-machine.png';
 import wikipediaViewerImage from '../../assets/wikipedia-viewer.png';
+import worldMapSmsPricing from '../../assets/world-map-sms-pricing.png';
+import cubicLattice from '../../assets/cubic-lattice.png';
+import inshortsClone from '../../assets/inshorts-clone.png';
+import chatDashboardRedux from '../../assets/chatbot-dashboard-redux.gif';
 
 const data = [
+  {
+    image: inshortsClone,
+    title: 'Inshorts Clone',
+    tags: ['ReactJS', 'Redux'],
+    url: "https://github.com/rahuls360/inshorts-clone"
+  },
+  {
+    image: chatDashboardRedux,
+    title: 'Chat Dashboard using Redux',
+    tags: ['ReactJS', 'Redux', 'axios', 'CSS Grid'],
+    url: "",
+    disabled: true
+  },
+  {
+    image: worldMapSmsPricing,
+    title: 'World Map SMS Pricing',
+    tags: ['Javascript', 'amcharts3', 'Full Contact', 'Zapier'],
+    url: "https://github.com/rahuls360/world-map-sms-calculator"
+  },
+  {
+    image: cubicLattice,
+    title: 'Cubic Lattice 3D model',
+    tags: ['Javascript', 'Three.js'],
+    url: "https://github.com/rahuls360/cubbic-lattice-three-js"
+  },
   {
     image: infiniteScrollImage,
     title: 'Infinite Scroll Website',

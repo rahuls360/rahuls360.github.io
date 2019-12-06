@@ -12,7 +12,7 @@ const Project = () => {
       <h2 style={styles.center}>Projects</h2>
       <Grid>
         {data.map(project => (
-          <Card img={project.image} tags={project.tags} title={project.title} url={project.url}/>
+          <Card img={project.image} tags={project.tags} title={project.title} url={project.url} disabled={project.disabled}/>
         ))}
       </Grid>
     </Container>
